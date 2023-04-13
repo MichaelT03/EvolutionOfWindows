@@ -32,6 +32,24 @@ nav div.icon{
     padding-bottom: 100px;
 }
 
+#changes-list{
+    text-decoration: underline;
+}
+
+.video{
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.video iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 /*Footer*/
 
 footer{
