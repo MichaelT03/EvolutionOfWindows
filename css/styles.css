@@ -68,5 +68,25 @@ footer > div.container{
 @media screen and (max-width: 991px){ /*Allows me to make changes to the md or smaller screen size where bootstrap doesn't*/
     #windows-gui{
         padding-top: 1em;
+    }  
+}
+
+@media screen and (max-width: 769px){
+    .desktop{
+        display: none;
+    }
+
+    .mobile{
+        display: block;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .desktop{
+        display: block;
+    }
+
+    .mobile{
+        display: none;
     }
 }
