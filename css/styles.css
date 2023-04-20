@@ -83,6 +83,14 @@ footer > div.container{
     .table-desktop{
         display: none;
     }
+
+    .table{
+        table-layout: fixed;
+    }
+
+    .table td{
+        width: 33%;
+    }
 }
 
 @media screen and (min-width: 768px){ /*Bootstraps md width*/
