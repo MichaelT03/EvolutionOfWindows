@@ -14,3 +14,6 @@ Michael Trout & Zachary Fortman
     - [Body Font](https://fonts.google.com/specimen/Kreon?query=Kreo)
 - [Font Awesome](https://fontawesome.com/ "fontawesome.com")
     - [Windows Icon](https://fontawesome.com/icons/windows?f=brands&s=solid "windows icon")
+
+### Semester
+Spring 2023
