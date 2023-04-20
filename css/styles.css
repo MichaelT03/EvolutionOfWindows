@@ -79,6 +79,10 @@ footer > div.container{
     .mobile{
         display: block;
     }
+
+    .table-desktop{
+        display: none;
+    }
 }
 
 @media screen and (min-width: 768px){ /*Bootstraps md width*/
