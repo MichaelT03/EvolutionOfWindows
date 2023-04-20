@@ -93,4 +93,8 @@ footer > div.container{
     .mobile{
         display: none;
     }
+
+    .table-mobile{
+        display: none;
+    }
 }
